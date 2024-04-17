@@ -1,0 +1,144 @@
+Date: 2024-04-04
+Origin: Monumento
+Destination: Bagong Barrio
+Discount: Regular
+Number of Baggage: 0
+Baggage Fare: PHP 0.0
+Fare: PHP 15.0
+Total Fare: PHP 15.0
+--------------------
+Date: 2024-04-04
+Origin: Monumento
+Destination: Bagong Barrio
+Discount: Regular
+Number of Baggage: 1
+Baggage Fare: PHP 15.0
+Fare: PHP 15.0
+Total Fare: PHP 30.0
+--------------------
+Date: 2024-04-04
+Origin: Monumento
+Destination: Bagong Barrio
+Discount: Student
+Number of Baggage: 1
+Baggage Fare: PHP 12.0
+Fare: PHP 12.0
+Total Fare: PHP 24.0
+--------------------
+Date: 2024-04-04
+Origin: Monumento
+Destination: Bagong Barrio
+Discount: Senior
+Number of Baggage: 1
+Baggage Fare: PHP 12.0
+Fare: PHP 12.0
+Total Fare: PHP 24.0
+--------------------
+Date: 2024-04-04
+Origin: Monumento
+Destination: Bagong Barrio
+Discount: PWD
+Number of Baggage: 1
+Baggage Fare: PHP 12.0
+Fare: PHP 12.0
+Total Fare: PHP 24.0
+--------------------
+Date: 2024-04-04
+Origin: Monumento
+Destination: Bagong Barrio
+Discount: PWD
+Number of Baggage: 0
+Baggage Fare: PHP 0.0
+Fare: PHP 12.0
+Total Fare: PHP 12.0
+--------------------
+Date: 2024-04-05
+Origin: Monumento
+Destination: North Avenue
+Discount: PWD
+Number of Baggage: 0
+Baggage Fare: PHP 0.0
+Fare: PHP 13.6
+Total Fare: PHP 13.6
+--------------------
+Date: 2024-04-05
+Origin: Monumento
+Destination: North Avenue
+Discount: PWD
+Number of Baggage: 1
+Baggage Fare: PHP 13.6
+Fare: PHP 13.6
+Total Fare: PHP 27.2
+--------------------
+Date: 2024-04-04
+Origin: Monumento
+Destination: Bagong Barrio
+Discount: Regular
+Number of Baggage: 0
+Baggage Fare: PHP 0.0
+Fare: PHP 15.0
+Total Fare: PHP 15.0
+--------------------
+Date: 2024-04-04
+Origin: Monumento
+Destination: Bagong Barrio
+Discount: Regular
+Number of Baggage: 1
+Baggage Fare: PHP 15.0
+Fare: PHP 15.0
+Total Fare: PHP 30.0
+--------------------
+Date: 2024-04-04
+Origin: Monumento
+Destination: Bagong Barrio
+Discount: Student
+Number of Baggage: 1
+Baggage Fare: PHP 12.0
+Fare: PHP 12.0
+Total Fare: PHP 24.0
+--------------------
+Date: 2024-04-05
+Origin: Monumento
+Destination: Nepa Q. Mart
+Discount: Student
+Number of Baggage: 0
+Baggage Fare: PHP 0.0
+Fare: PHP 14.0
+Total Fare: PHP 14.0
+--------------------
+Date: 2024-04-05
+Origin: Monumento
+Destination: Nepa Q. Mart
+Discount: Regular
+Number of Baggage: 0
+Baggage Fare: PHP 0.0
+Fare: PHP 17.5
+Total Fare: PHP 17.5
+--------------------
+Date: 2024-04-05
+Origin: Monumento
+Destination: Nepa Q. Mart
+Discount: Senior
+Number of Baggage: 0
+Baggage Fare: PHP 0.0
+Fare: PHP 14.0
+Total Fare: PHP 14.0
+--------------------
+Date: 2024-04-05
+Origin: Monumento
+Destination: Nepa Q. Mart
+Discount: PWD
+Number of Baggage: 0
+Baggage Fare: PHP 0.0
+Fare: PHP 14.0
+Total Fare: PHP 14.0
+--------------------
+Date: 2024-04-04
+Origin: Monumento
+Destination: Bagong Barrio
+Discount: Student
+Number of Baggage: 0
+Baggage Fare: PHP 0.0
+Fare: PHP 12.0
+Total Fare: PHP 12.0
+--------------------
